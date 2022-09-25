@@ -3,6 +3,10 @@ Finding out how much money McDonalds might be losing due to broken ice cream mac
 
 ### Aim
 Scripts will calculate the report daily and display the total amount lost in revenue.
+### Instruments
+1. Python
+2. MongoDB
+3. docker-compose
 
 ### Asamptions
 
@@ -302,4 +306,4 @@ Or via docker-compose console.log
 
 <img src="pict\Screenshot 2022-09-25 193601.png" width=1000 height=60 />
 
-
+You can run this solution on your own by downloading the repository and running docker-compose.
