@@ -8,7 +8,7 @@ Scripts will calculate the report daily and display the total amount lost in rev
 2. MongoDB
 3. docker-compose
 
-### Asamptions
+### Assumptions
 
 Note: All information and conclusions are based on assumptions from available sources.
 
